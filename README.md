@@ -1,5 +1,4 @@
-### Hi there 👋
-
+BigData Engineer, AWS Solutions Architect, PhD, Associate Professor
 <!--
 **mddm/mddm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
